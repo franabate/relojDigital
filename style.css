@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {background-color: #34481F;}
+
+.clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#reloj{
+    font-size: 6em;
+    color: #d3e9ad;
+}
